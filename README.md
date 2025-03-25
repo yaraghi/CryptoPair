@@ -118,8 +118,8 @@ The fastest way to get the application running after cloning the repository:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd crypto-pair-price
+git clone https://github.com/yaraghi/CryptoPair.git
+cd CryptoPair
 
 # Build and start all containers
 docker compose up --build
